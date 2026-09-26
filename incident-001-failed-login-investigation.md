@@ -32,3 +32,19 @@ Multiple unsuccessful login attempts were observed against Jordan Brown's Window
 Multiple failed authentication attempts were recorded against Jordan Brown within a short time period. Security Event ID 4625 showed that the attempts failed because of an incorrect password. Review of Event ID 4624 activity did not identify a successful Jordan Brown login immediately following the failed attempts.
 
 Based on the reviewed evidence, the authentication failures did not result in successful access to the Jordan Brown account during the incident window.
+## Screenshots
+
+### Logon Auditing Enabled
+![Logon auditing enabled](screenshots/01-soc-001-logon-auditing-enabled.png)
+
+### Failed Login Attempt
+![Failed login attempt](screenshots/02-soc-001-failed-login-attempt.png)
+
+### Failed Logon Events
+![Event ID 4625 events](screenshots/03-soc-001-4625-events.png)
+
+### Event Details
+![Event ID 4625 details](screenshots/04-soc-001-event-details.png)
+
+### Post-Failure Logon Review
+![Post-failure Event ID 4624 review](screenshots/05-soc-001-post-failure-logon-review.png)
