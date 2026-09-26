@@ -25,3 +25,6 @@ The investigation used Windows Security event logs to identify failed authentica
 - Incident scoping
 - Timeline review
 - SOC documentation
+## Investigation
+
+[View Incident #001 — Repeated Failed Login Attempts](incident-001-failed-login-investigation.md)
